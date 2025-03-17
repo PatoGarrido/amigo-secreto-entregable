@@ -72,5 +72,3 @@ function reiniciarAplicacion() {
     }
 }
 
-// Reinicio al hacer clic en el botón
-document.getElementById('reinicio').onclick = reiniciarAplicacion;
